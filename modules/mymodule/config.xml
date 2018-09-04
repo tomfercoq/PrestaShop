@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>mymodule</name>
+            <displayName><![CDATA[Mon Module]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[Description de mon module.]]></description>
+            <author><![CDATA[John Doe]]></author>
+            <tab><![CDATA[front_office_features]]></tab>
+            <confirmUninstall>Etes vous sur de vouloir supprimer ce module ?</confirmUninstall>
+            <is_configurable>0</is_configurable>
+            <need_instance>0</need_instance>
+            <limited_countries></limited_countries>
+        </module>
